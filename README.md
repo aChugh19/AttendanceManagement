@@ -1,4 +1,4 @@
-#AttendanceManagementSystem
+# AttendanceManagementSystem
        
 Face recognition is really a series of several related problems:
   1.	First, look at a picture and find all the faces in it
@@ -7,7 +7,7 @@ Face recognition is really a series of several related problems:
   4.	Finally, compare the unique features of that face to all the people you already know to determine the person’s name.
 
 
-##Face Recognition — Step by Step
+## Face Recognition — Step by Step
   **Step 1:** Finding all the Faces
     The first step in our pipeline is face detection. We need to locate the faces in a photograph before we can try to tell them apart!
     Face detection is a great feature for cameras. When the camera can automatically pick out faces, it can make sure that all the faces are in focus before it takes the picture. But we’ll use it for a different purpose — finding the areas of the image we want to pass on to the next step in our pipeline.
